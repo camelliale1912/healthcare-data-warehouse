@@ -18,7 +18,7 @@ Hospitals must balance financial stability with operational capacity while manag
 - Generated analytics using SQL window functions
 
 ## Schema
-![Schema](images/schema.png)
+![Schema](images/schema.svg)
 
 ## Key SQL Techniques
 - ROLLUP (aggregation)
